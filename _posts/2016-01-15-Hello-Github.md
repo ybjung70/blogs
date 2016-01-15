@@ -12,3 +12,27 @@ I can add images like this!
 # Head 1
 ## head 1.1
 ### head 1.1.1
+
+- _italics_
+- **bold**
+- `code()`
+
+> Blockquote
+>> Nested Blockquote
+
+Syntax highlighting can be used with triple backticks, like so:
+
+```R
+# Some pointless Javascript 
+libray(ggplot2)
+ggplt(data)
+```
+
+Use two trailing spaces  
+on the right  
+to create linebreak tags  
+
+Finally, horizontal lines
+
+----
+****
