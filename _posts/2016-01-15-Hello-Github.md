@@ -25,7 +25,7 @@ Syntax highlighting can be used with triple backticks, like so:
 ```R
 # Some pointless Javascript 
 libray(ggplot2)
-ggplt(data)
+ggplot(data)
 ```
 
 Use two trailing spaces  
@@ -36,3 +36,5 @@ Finally, horizontal lines
 
 ----
 ****
+
+I nee to modify for syntax highlighting for R code!
